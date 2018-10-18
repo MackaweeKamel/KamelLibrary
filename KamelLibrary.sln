@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KamelLibrary", "KamelLibrary\KamelLibrary.csproj", "{4E5CB529-0209-4F35-9D24-78062E637998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KamelLibrary.Tests", "KamelLibrary.Tests\KamelLibrary.Tests.csproj", "{71585074-5EEA-4E77-BE84-5A561F1F34C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E5CB529-0209-4F35-9D24-78062E637998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5CB529-0209-4F35-9D24-78062E637998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5CB529-0209-4F35-9D24-78062E637998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5CB529-0209-4F35-9D24-78062E637998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71585074-5EEA-4E77-BE84-5A561F1F34C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71585074-5EEA-4E77-BE84-5A561F1F34C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71585074-5EEA-4E77-BE84-5A561F1F34C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71585074-5EEA-4E77-BE84-5A561F1F34C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B9C1424-354E-4010-A055-9577BCCC99A8}
+	EndGlobalSection
+EndGlobal
